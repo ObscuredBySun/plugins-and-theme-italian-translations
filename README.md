@@ -1,9 +1,9 @@
 ⚠️ Disclaimer importante (da leggere prima)
 Questo repository contiene file di traduzione in lingua italiana (.po / .mo) realizzati in modo indipendente per plugin e temi WordPress distribuiti con licenza GPL o compatibile.
-  ❗ Questo progetto NON è affiliato, sponsorizzato o approvato dagli autori originali dei plugin o dei temi citati, salvo esplicita indicazione.
-  ❗ Le traduzioni sono fornite “così come sono”, senza alcuna garanzia di completezza, accuratezza o compatibilità con versioni future.
-  ❗ I nomi dei plugin, dei temi e dei rispettivi autori sono marchi dei legittimi proprietari.
-  ❗ L’utilizzo delle traduzioni è a proprio rischio.
+   - Questo progetto NON è affiliato, sponsorizzato o approvato dagli autori originali dei plugin o dei temi citati, salvo esplicita indicazione.
+   - Le traduzioni sono fornite “così come sono”, senza alcuna garanzia di completezza, accuratezza o compatibilità con versioni future.
+   - I nomi dei plugin, dei temi e dei rispettivi autori sono marchi dei legittimi proprietari.
+   - L’utilizzo delle traduzioni è a proprio rischio.
 
 Le traduzioni non includono codice proprietario, ma esclusivamente stringhe testuali, come consentito dalle licenze open-source (GPL).
 Se sei uno sviluppatore e desideri:
