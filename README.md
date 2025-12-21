@@ -26,25 +26,6 @@ Le traduzioni sono state:
 antenute con attenzione alla coerenza terminologica
 L’obiettivo è offrire traduzioni di qualità superiore rispetto alle traduzioni automatiche o incomplete.
 
-📂 Struttura del repository
-/
-├── plugins/
-│   ├── nome-plugin/
-│   │   ├── it_IT.po
-│   │   ├── it_IT.mo
-│   │   └── manifest.json
-│
-├── themes/
-│   ├── nome-tema/
-│   │   ├── it_IT.po
-│   │   ├── it_IT.mo
-│   │   └── manifest.json
-│
-├── packs/
-│   └── nome-plugin-it-pack.zip
-│
-└── README.md
-
 Contenuto dei pacchetti
 Ogni pacchetto di traduzione può includere:
    - it_IT.po – file sorgente della traduzione
