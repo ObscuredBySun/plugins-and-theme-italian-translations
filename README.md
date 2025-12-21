@@ -68,10 +68,10 @@ Se usi una versione diversa:
 In questi casi è consigliato verificare manualmente o attendere un aggiornamento.
 
 Filosofia del progetto
-   ❌ niente traduzioni automatiche “alla cieca”
-   ✅ priorità alla chiarezza per l’utente finale
-   ✅ attenzione a contesto, UX e micro-copy
-   ✅ terminologia coerente nel tempo
+   - niente traduzioni automatiche “alla cieca”
+   - priorità alla chiarezza per l’utente finale
+   - attenzione a contesto, UX e micro-copy
+   - terminologia coerente nel tempo
 Questo progetto nasce per migliorare l’esperienza WordPress in italiano, non per competere con gli autori originali.
 
 🤝 Collaborazioni
@@ -93,4 +93,3 @@ Crediti
 Traduzioni curate manualmente da OBS LI.
 Con passione per WordPress, open-source e qualità linguistica.
 
-“Se questo lavoro ti è utile, considera di supportarne lo sviluppo.”
