@@ -10,7 +10,35 @@ Se sei uno sviluppatore e desideri:
    - la rimozione di una traduzione
    - la modifica di crediti o attribuzioni
    - l’integrazione ufficiale nel tuo progetto
+     
 👉 contattami: sarò felice di collaborare.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⚠️ Important Disclaimer (Please Read Before Use)
+
+This repository contains Italian language translation files (.po / .mo) independently created for WordPress plugins and themes distributed under the GPL license or compatible licenses.
+
+This project is NOT affiliated with, sponsored by, or endorsed by the original authors of the referenced plugins or themes, unless explicitly stated otherwise.
+
+The translations are provided “as is”, without any warranty of completeness, accuracy, or compatibility with future versions.
+
+The names of plugins, themes, and their respective authors are trademarks of their rightful owners.
+
+Use of these translations is at your own risk.
+
+The translations do not include proprietary code, but only textual strings, as permitted by open-source licenses (GPL).
+
+If you are a developer and would like to request:
+
+the removal of a translation
+
+changes to credits or attributions
+
+official integration into your project
+
+👉 please contact me — I will be happy to collaborate.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Cos’è questo repository
 Questo repository raccoglie traduzioni italiane curate manualmente per:
